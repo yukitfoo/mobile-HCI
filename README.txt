@@ -1,4 +1,4 @@
-## Read the PDF file on the parent directory
+Read the PDF file (https://github.com/yukitfoo/mobile-HCI/blob/main/MobileHCI_2441458f_Foo%20(3).pdf)
 
 Submission for Mobile Human Computer Interaction (H) and (M)
 
